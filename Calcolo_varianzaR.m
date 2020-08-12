@@ -1,3 +1,11 @@
+%% --- Automation Addicted #2 ---
+
+%   Kalman Filter: implementation on Arduino UNO board
+%   Author: Alessandro D'Alio
+%   YouTube: Automation Addicted
+%   "Follow me and subscribe to my channel for more videos!"
+
+
 clc
 clear all;
 global a;
