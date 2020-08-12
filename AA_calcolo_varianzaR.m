@@ -28,7 +28,7 @@ v = zeros(samples,1);
 % lettura da sensore LM35DZ
 i=1;
 while i <= samples
-    v(i) = readVoltage(a,'A0')*100;
+    v(i) = readVoltage(a,'A0')*100; % [°C]
     i = i + 1;
 end
 
